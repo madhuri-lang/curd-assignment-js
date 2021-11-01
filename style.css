@@ -1,3 +1,6 @@
+body{
+    background-color: lightblue;
+}
 .box-container .box{
     flex: 1 1 30rem;
     box-sizing: border-box;
@@ -10,7 +13,6 @@
     border: .1rem solid rgba(0, 0, 0,.3);
     border-radius: .5rem;
     padding: 30px;
-    background-color: lightblue;
   }
   .box-container .box .input{
     display: flex;
